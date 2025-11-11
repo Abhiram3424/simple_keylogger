@@ -1,0 +1,52 @@
+2025-06-27 21:48:42,526: Key d pressed
+2025-06-27 21:48:42,554: Key n pressed
+2025-06-27 21:48:42,598: Key e pressed
+2025-06-27 21:48:42,719: Key c pressed
+2025-06-27 21:48:42,748: Key n pressed
+2025-06-27 21:48:42,858: Key j pressed
+2025-06-27 21:48:58,687: Special Key Key.ctrl_l pressed
+2025-06-27 21:48:59,188: Special Key Key.ctrl_l pressed
+2025-06-27 21:48:59,218: Special Key Key.ctrl_l pressed
+2025-06-27 21:48:59,249: Special Key Key.ctrl_l pressed
+2025-06-27 21:48:59,277: Special Key Key.ctrl_l pressed
+2025-06-27 21:48:59,308: Special Key Key.ctrl_l pressed
+2025-06-27 21:48:59,338: Special Key Key.ctrl_l pressed
+2025-06-27 21:48:59,368: Special Key Key.ctrl_l pressed
+2025-06-27 21:48:59,397: Special Key Key.ctrl_l pressed
+2025-06-27 21:48:59,410: Key  pressed
+2025-06-27 21:49:01,821: Special Key Key.ctrl_l pressed
+2025-06-27 21:49:01,982: Key  pressed
+2025-06-27 21:49:02,963: Special Key Key.enter pressed
+2025-06-27 21:49:37,669: Special Key Key.cmd pressed
+2025-06-27 21:49:38,224: Key t pressed
+2025-06-27 21:49:38,378: Key e pressed
+2025-06-27 21:49:38,814: Key l pressed
+2025-06-27 21:49:38,965: Key e pressed
+2025-06-27 21:49:39,141: Special Key Key.enter pressed
+2025-08-20 22:47:42,566: Key r pressed
+2025-08-20 22:47:42,736: Key u pressed
+2025-08-20 22:47:42,871: Key u pressed
+2025-08-20 22:47:42,882: Key n pressed
+2025-08-20 22:47:44,945: Key m pressed
+2025-08-20 22:47:45,030: Key w pressed
+2025-08-20 22:47:45,061: Key k pressed
+2025-08-20 22:47:45,166: Key d pressed
+2025-08-20 22:47:45,282: Key k pressed
+2025-08-20 22:47:45,357: Key n pressed
+2025-08-20 22:47:46,406: Key o pressed
+2025-08-20 22:47:46,948: Key i pressed
+2025-08-20 22:47:48,751: Key l pressed
+2025-08-20 22:47:49,102: Key p pressed
+2025-08-20 22:47:54,500: Key None pressed
+2025-08-20 22:47:55,644: Key None pressed
+2025-08-20 22:47:56,341: Key None pressed
+2025-08-20 22:47:58,471: Special Key Key.shift pressed
+2025-08-20 22:47:58,923: Key ! pressed
+2025-08-20 22:47:59,450: Key ! pressed
+2025-08-20 22:47:59,833: Key ! pressed
+2025-08-20 22:48:02,201: Special Key Key.media_volume_up pressed
+2025-08-20 22:48:03,265: Special Key Key.media_volume_up pressed
+2025-08-20 22:48:03,918: Special Key Key.media_volume_up pressed
+2025-08-20 22:48:04,315: Special Key Key.media_volume_down pressed
+2025-08-20 22:48:04,541: Special Key Key.media_volume_down pressed
+2025-08-20 22:48:04,943: Special Key Key.media_volume_down pressed
